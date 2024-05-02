@@ -28,10 +28,8 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
   - Image by <a href="https://myoctocat.com/">My Octocat</a>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
   - Design created by <a href="https://github.com/elidianaandrade">EA</a> (edited by author)
- 
-  <div align="right">Made with by <a href="https://github.com/T0W3RS">T0W3RS</a>.</div>
 
 </details>
-
+ 
+  <div align="right">Made with by <a href="https://github.com/T0W3RS">T0W3RS</a>.</div>
