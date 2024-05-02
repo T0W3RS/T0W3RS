@@ -23,7 +23,7 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
 
 ### References
  
-  - Badges by <a href="https://shields.io/">shields.io</a><br> and <a href="https://github.com/alexandresanlim/github-readme-stats">alexandresanlim</a>
+  - Badges by <a href="https://github.com/alexandresanlim/github-readme-stats">alexandresanlim</a> and <a href="https://shields.io/">shields.io</a><br> 
   - Image by <a href="https://myoctocat.com/">My Octocat</a>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
