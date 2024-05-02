@@ -19,5 +19,5 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0W3RS)](https://github.com/T0W3RS/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0W3RS&layout=compact&hide=javascript)
 
