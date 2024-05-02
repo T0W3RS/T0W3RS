@@ -19,5 +19,19 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0W3RS&layout=compact&hide=Jupyter Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0W3RS&layout=compact)
+
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - Image by <a href="https://myoctocat.com/">My Octocat</a>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  - Design created by <a href="https://github.com/elidianaandrade">EA</a> (edited by author)
+ 
+  <div align="right">Made with by <a href="https://github.com/T0W3RS">T0W3RS</a>.</div>
+
+</details>
 
