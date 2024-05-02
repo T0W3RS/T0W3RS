@@ -21,8 +21,7 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0W3RS&layout=compact)
 
-
-  <summary></summary> 
+### References
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - Image by <a href="https://myoctocat.com/">My Octocat</a>
