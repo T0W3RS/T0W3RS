@@ -21,7 +21,7 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0W3RS&layout=compact)
 
-<details align="left">
+
   <summary></summary> 
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
@@ -29,7 +29,5 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Design created by <a href="https://github.com/elidianaandrade">EA</a> (edited by author)
-
-</details>
  
   <div align="right">Made with by <a href="https://github.com/T0W3RS">T0W3RS</a>.</div>
