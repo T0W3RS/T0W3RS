@@ -16,7 +16,7 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
 ### GitHub Stats
 
 ![T0W3RS GitHub stats](https://github-readme-stats.vercel.app/api?username=T0W3RS&show_icons=true&theme=shadow_red)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T0W3RS&theme=transparent&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Top Languages
 
