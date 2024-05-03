@@ -15,7 +15,7 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
 
 ### My Portfolio
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=T0W3RS&repo=https://github.com/T0W3RS/My_Portfolio&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF)](https://github.com/T0W3RS/My_Portfolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=T0W3RS&repo=https:My_Portfolio&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF)](https://github.com/T0W3RS/My_Portfolio)
 
 ### GitHub Stats
 
