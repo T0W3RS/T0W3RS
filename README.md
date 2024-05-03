@@ -32,5 +32,6 @@ As a Researcher, I have applied my skills and knowledge in programming, data ana
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Top Languages by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Design created by <a href="https://github.com/elidianaandrade">elidianaandrade</a> (edited by author)
+  - Learning path by <a href="https://web.dio.me/">DIO</a>
  
   <div align="right">Made with by <a href="https://github.com/T0W3RS">T0W3RS</a>.</div>
