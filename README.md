@@ -24,7 +24,9 @@ I hold a master’s degree in computational modeling, where I developed a determ
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=T0W3RS&layout=compact&hide_title=true&bg_color=000&border_color=E94D5F&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T0W3RS&theme=transparent&hide_title=true&bg_color=000&border_color=E94D5F&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula
 
 ### References
  
